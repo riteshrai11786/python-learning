@@ -47,3 +47,4 @@ n = len(arr)
 print("Sorted array is")
 for i in range(n):
     print("%d" % arr[i]),
+#EOD
